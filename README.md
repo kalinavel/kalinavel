@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kalinavel
-- 👀 I’m interested in coding, reading, drawing, enjoing nature and sleeping 😉.
+- 👀 I’m interested in coding, reading, drawing, enjoing nature and meeting friends over a beer (or just meeting them) 😉.
 - 🌱 I’m currently learning front-end web development.
 
 <!---
